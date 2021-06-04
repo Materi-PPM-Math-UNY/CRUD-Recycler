@@ -14,6 +14,15 @@ Cakupan Materi
 - Mengenal RecyclerAdapter.
 - Mengenal ViewHolder.
 
+### Menggunakan RecyclerView Step-by step.
+Untuk menggunakan recyclerView, Anda harus melakukan beberapa langkah, yaitu :
+1. Menambahkan support library RecyclerView di gradle.
+2. Menambahkan RecyclerView di layout XML
+3. Membuat row layout untuk setiap row item.
+4. Membuat ViewHolder untuk menyediakan referensi ke View pada setiap item data.
+5. Membuat RecyclerView.Adapter untuk memberi data ke RecyclerView
+6. Mem-bind Adapter ke RecyclerView di Activity
+
 ## PR 😄
 - Lanjutkan sendiri untuk **Search** dan **Delete**.
 - Push ke repositori GitHub kalian. Lalu kirim linknya ke Dosen pengampu.
